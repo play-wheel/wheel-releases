@@ -1,0 +1,13 @@
+{
+  "version": "v0.61",
+  "title": "wheel. v0.61 — Ultra FPS Performance Overhaul, Dense Sierra Forests, Colossal Granite Batholiths & Rideable Whalebacks",
+  "published_utc": "2026-10-29T15:36:28Z",
+  "core_archive": "wheel_win64.zip",
+  "core_archive_sha256": "85c04cf9c770a1decb77c37a8df4b24352c80b638896fc86242e87e45d78ba36",
+  "core_archive_bytes": 979095726,
+  "core_pck_sha256": "653a1c612dba7115ed85074a37f6b4354cd412b058a430dc6b4e34b1bf81377e",
+  "core_pck_bytes": 995703412,
+  "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
+  "exe_bytes": 105588224,
+  "map_packs": []
+}
