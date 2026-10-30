@@ -1,12 +1,12 @@
 {
   "version": "v0.62",
-  "title": "v0.62 — Swooping On-Camber Singletrack, Step-Down Jump Landings, Locked-In Berm Traction & Dynamic Rider Body Mechanics",
-  "published_utc": "2026-10-29T23:33:15Z",
+  "title": "wheel. v0.62 — Singletrack Flow, Long Swooping Berms & Body Mechanics Overhaul",
+  "published_utc": "2026-10-30T02:02:20Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "a06b1f30c01357baef454a8b30fd77d2cf1014822ae2fe74c7478828342a09bf",
-  "core_archive_bytes": 979137874,
-  "core_pck_sha256": "3c7b53153f184bff367927e6b6b074fdd16534a573b3e5df5eb6dae387f2ec56",
-  "core_pck_bytes": 995769448,
+  "core_archive_sha256": "98b2a288ae3a0a71f986cbb7d5fc5f549adf96a690dfa2973899e4da5f9906f2",
+  "core_archive_bytes": 979137603,
+  "core_pck_sha256": "500e74bbf44b44ccd8d0db521c352f61029f82bc3691ab48a89ecb55755edef4",
+  "core_pck_bytes": 995770056,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
