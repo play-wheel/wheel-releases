@@ -1,12 +1,12 @@
 {
   "version": "v0.64",
-  "title": "wheel. v0.64 - High-Definition Singletrack Tread, Sculpted Sierra Dirt Features, Trailhead Signage & Alpine Understory Overhaul",
-  "published_utc": "2026-10-31T21:19:46Z",
+  "title": "wheel. v0.64 — Carved Trailhead Signage & Natural Sierra Dirt Feature Pack",
+  "published_utc": "2026-10-31T21:54:14Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "e746797f0aad3170a6f0af47bceb32926003f7e1bee660abfe42a7a982aa37f7",
-  "core_archive_bytes": 1235465693,
-  "core_pck_sha256": "4e02fdab658e81b85ab654b90d346dbf3d6e4c8cc54b7be3dc57ea0363d8935f",
-  "core_pck_bytes": 1280450976,
+  "core_archive_sha256": "4634d73c320ed0adee32cf7e7262bb2a4a0fd91114a1a40cbd1cddb44af72519",
+  "core_archive_bytes": 1235468586,
+  "core_pck_sha256": "6ae016063f00da51158858f1c7d8ed732e443bb7c8f425750c277b8b7e8131d6",
+  "core_pck_bytes": 1280453328,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
