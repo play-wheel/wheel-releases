@@ -1,12 +1,12 @@
 {
   "version": "v0.64",
-  "title": "wheel. v0.64 — Carved Trailhead Signage & Natural Sierra Dirt Feature Pack",
-  "published_utc": "2026-10-31T21:54:14Z",
+  "title": "wheel. v0.64 — Golden Aspen Sanctuary, Sculpted Trail Features, 10-Species Sierra Grasses & Ragdoll Crash Upgrades",
+  "published_utc": "2026-11-01T18:02:05Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "4634d73c320ed0adee32cf7e7262bb2a4a0fd91114a1a40cbd1cddb44af72519",
-  "core_archive_bytes": 1235468586,
-  "core_pck_sha256": "6ae016063f00da51158858f1c7d8ed732e443bb7c8f425750c277b8b7e8131d6",
-  "core_pck_bytes": 1280453328,
+  "core_archive_sha256": "ccea8eddb14d90b8a214e2934dc70cffef309b891b2132d7b83dad94c7d860d4",
+  "core_archive_bytes": 1302189756,
+  "core_pck_sha256": "bf178356848c4f40c9a0ec986805b5a8078de9ee40b4b51b5f5ee41c3e3daf57",
+  "core_pck_bytes": 1350312400,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
