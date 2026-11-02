@@ -1,12 +1,12 @@
 {
   "version": "v0.65",
-  "title": "wheel. v0.65 — Deep-Carve Speed Scrubbing, Tactile Singletrack Tread & Foley Audio, Rideable Dirt Features & 2,400m Ghost Upgrades",
-  "published_utc": "2026-11-02T02:28:59Z",
+  "title": "wheel. v0.65 — Zen Deep-Carve Flow, Berm Traction Overhaul, Monumental Trail Features & Tahoe Vista Scale",
+  "published_utc": "2026-11-02T04:20:27Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "ec859d68b9b082fcadf4173e147559802f309c3c46ae12f12a9e83245036bbf2",
-  "core_archive_bytes": 1315232876,
-  "core_pck_sha256": "21b6970af2adaff7be5d0b471aa02d3cc9817f143862dffba194d7064c986345",
-  "core_pck_bytes": 1363628128,
+  "core_archive_sha256": "b8ae9d48f25a690cde519b83c81a13fe0098bcd8e22ffcb480162e0c629f9e5c",
+  "core_archive_bytes": 1315234966,
+  "core_pck_sha256": "4d647b58e17046c5c294dcd62186539881105909e803aed9a98b0572d325ec46",
+  "core_pck_bytes": 1363629296,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
