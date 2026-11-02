@@ -1,12 +1,12 @@
 {
   "version": "v0.65",
-  "title": "wheel. v0.65 — Zen Deep-Carve Flow, Berm Traction Overhaul, Monumental Trail Features & Tahoe Vista Scale",
-  "published_utc": "2026-11-02T04:20:27Z",
+  "title": "wheel. v0.65 — New Rider Neil, Smoother Carving, Bigger Trail Jumps & Heavy Crash Physics",
+  "published_utc": "2026-11-02T06:22:49Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "b8ae9d48f25a690cde519b83c81a13fe0098bcd8e22ffcb480162e0c629f9e5c",
-  "core_archive_bytes": 1315234966,
-  "core_pck_sha256": "4d647b58e17046c5c294dcd62186539881105909e803aed9a98b0572d325ec46",
-  "core_pck_bytes": 1363629296,
+  "core_archive_sha256": "fac2f687dc88ad4680207f237e4851ea0a476d7da6874a77f3302d645f262dcd",
+  "core_archive_bytes": 1322851629,
+  "core_pck_sha256": "30c8949ad9e3c56b29a3dc89f4e3aff6d1e0ad4d5babf6dc8e4dbd203e025ff5",
+  "core_pck_bytes": 1371488812,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
