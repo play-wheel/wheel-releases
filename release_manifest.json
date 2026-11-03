@@ -1,12 +1,12 @@
 {
   "version": "v0.66",
-  "title": "wheel. v0.66 — Tahoe Flume Cliffside Trail, Wildflower Meadows, Low-Angle Cam & Sand Harbor Beach Finale",
-  "published_utc": "2026-11-03T21:19:41Z",
+  "title": "wheel. v0.66 — Tahoe Flume Trail, Sand Harbor Beach Finale, Unlimited Freeride & Sector Splits",
+  "published_utc": "2026-11-03T23:30:53Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "04142497a4b854e846f79467d4c39fa81006c26162ebbe631de370acc3e2fa44",
-  "core_archive_bytes": 1261835630,
-  "core_pck_sha256": "a3e7a0522e691c39002d985090fa2a92003118579110e5dcfe36ed62dca1eda7",
-  "core_pck_bytes": 1308569928,
+  "core_archive_sha256": "8e50f6c793385433ea3a983f761c7279c50318adb020e9fc20ae120a173ed5e5",
+  "core_archive_bytes": 1261859969,
+  "core_pck_sha256": "066bbbc11038d8c4b89d450a3e6e5e27201f7b29de0ac98b850b674f7f69f105",
+  "core_pck_bytes": 1308595644,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
