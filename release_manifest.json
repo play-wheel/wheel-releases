@@ -1,12 +1,12 @@
 {
   "version": "v0.66",
-  "title": "wheel. v0.66 — Tahoe Flume Cliffside Trail, Interactive Trail Plants & 3D Showroom Overhaul",
-  "published_utc": "2026-11-03T01:02:00Z",
+  "title": "wheel. v0.66 — Tahoe Flume Cliffside Trail, Wildflower Meadows, Low-Angle Cam & Sand Harbor Beach Finale",
+  "published_utc": "2026-11-03T21:19:41Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "f7dd5d681dc419fce3b4480ca84f391d6f6b68a9fd2069badb30e17ca92c06dc",
-  "core_archive_bytes": 1261272184,
-  "core_pck_sha256": "76bb2baef00fad118ef0f94e7ce79a00d471dfdba357f8743e87c799392bf2cf",
-  "core_pck_bytes": 1308185656,
+  "core_archive_sha256": "04142497a4b854e846f79467d4c39fa81006c26162ebbe631de370acc3e2fa44",
+  "core_archive_bytes": 1261835630,
+  "core_pck_sha256": "a3e7a0522e691c39002d985090fa2a92003118579110e5dcfe36ed62dca1eda7",
+  "core_pck_bytes": 1308569928,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
