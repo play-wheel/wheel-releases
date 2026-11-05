@@ -1,12 +1,12 @@
 {
   "version": "v0.68",
-  "title": "wheel. v0.68 — Wildflower Blooms, 5-Camera Views, Slow-Mo Carves & Speed Boost",
-  "published_utc": "2026-11-05T05:39:38Z",
+  "title": "wheel. v0.68 — Wildflower Blooms, 5-Camera Views, Slow-Mo Carves & Dirt Spray",
+  "published_utc": "2026-11-05T06:21:35Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "ba84b2fb9d5e389a317646670dbfc34a5a5edb58fa40c54266bfc0f2b9d923d7",
-  "core_archive_bytes": 1319148153,
-  "core_pck_sha256": "facab46cf7b2492b2dd66c87f1afa490b7b004646cf4b8239eb71c56e2dbe0c4",
-  "core_pck_bytes": 1370480972,
+  "core_archive_sha256": "9a0b6fc0c0f2e94ed5f40938274dd1fba9e19625b44a13b908ebd2c7c3c2199f",
+  "core_archive_bytes": 1322296762,
+  "core_pck_sha256": "42229bc094df8c59aadfc5667ee66dc1ecf84a1776dcf96fc3958efe9af8ca26",
+  "core_pck_bytes": 1370475388,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
