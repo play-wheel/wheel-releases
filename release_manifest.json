@@ -1,12 +1,12 @@
 {
   "version": "v0.67",
-  "title": "wheel. v0.67 — Lower Corral Trail, Shred School Clinic & Wildflower Blooms",
-  "published_utc": "2026-11-04T21:59:28Z",
+  "title": "wheel. v0.67 — Lower Corral Trail, New Filmer Camera, Showroom Overhaul & Shred School",
+  "published_utc": "2026-11-05T00:02:46Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "9ba81682d12452762a1cefeb10304cb2916faeb7ce76693e6c78063fc66ae74d",
-  "core_archive_bytes": 1319089128,
-  "core_pck_sha256": "40e7c08f68f4ada69078ea8cd1eaff9b94a60639c3dfe2c2babc47360d0da0bf",
-  "core_pck_bytes": 1370426524,
+  "core_archive_sha256": "c1457394d8dc3b53687c93879b73b768e9c8ea48f570e93fdfd185e3c901843f",
+  "core_archive_bytes": 1319102729,
+  "core_pck_sha256": "7b4000b0b54f4a7cce87561971cda8373b42df1ab66e0c4080f5e034f3d45c33",
+  "core_pck_bytes": 1370438348,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
