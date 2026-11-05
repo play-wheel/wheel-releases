@@ -1,6 +1,12 @@
-# wheel. — Official Releases & Smart Installer
+# wheel. — Physics-Driven Onewheel Trail Riding & Flow
 
-Download the latest public build and auto-updater for **wheel.** — Lake Tahoe Backcountry Singletrack Simulator.
+**wheel.** is a physics-driven Onewheel riding game built around the feeling of surfing dirt, reading natural mountain terrain, and finding pure downhill flow. Drop in from high-alpine summits and carve your way down miles of Lake Tahoe backcountry singletrack—winding through old-growth forests, wildflower meadows, exposed cliffside benches, and granite slabs all the way to the water's edge.
+
+### Gameplay
+Every run is a blend of real-time self-balancing board physics, line choice, and expressive rider body mechanics:
+- **Carve & Slash:** Link deep, flowy S-turns with the left stick, rail banked dirt berms, or commit with the right stick to whip the tail into a steezy surf-slash and slingshot out of corners.
+- **Read the Terrain:** Preload and pop off natural rollers, roots, and granite kickers, match your board's pitch to the slope on landing, and absorb rough trail chatter through your rider's knees and hips.
+- **Real Weight & Consequences:** Feel the tire bite and drift across changing soil, pine duff, decomposed granite, and sand—nailing the right line rewards you with extra speed and flow, while bad lines and high-speed impacts send your rider and board flying.
 
 ### Quick Download
 - **[Download `wheel_installer.exe` (Smart Installer & Auto-Updater)](https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe)**
