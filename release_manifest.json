@@ -1,12 +1,12 @@
 {
   "version": "v0.71",
-  "title": "wheel. v0.71: Lake Tahoe Shoreline Free-Roam, Coastal Trails & Steeze Overhaul",
-  "published_utc": "2026-11-08T22:46:34Z",
+  "title": "wheel. v0.71: Slower Pace, Berm Pocketing & Singletrack Polish",
+  "published_utc": "2026-11-10T11:59:31Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "d2f74469a1c3fb790d6bd0e576e8a792b953e8ec5aa3d2d1a81bf476bbef11b6",
-  "core_archive_bytes": 1546039895,
-  "core_pck_sha256": "cfaeb08869fcf9ad404b846c60c7bcb35145adb4774ffb0a97937e9c04a5146e",
-  "core_pck_bytes": 1597490884,
+  "core_archive_sha256": "06053355ef60e0c6de3935177e52d058f85345840a3f768c3693f4eee3fa2c45",
+  "core_archive_bytes": 1600952948,
+  "core_pck_sha256": "a7d241ce4e073a82631b81d87e76ce8efc20c9d704b942cae33a267d9abb2eb9",
+  "core_pck_bytes": 1653638784,
   "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
   "exe_bytes": 105588224,
   "map_packs": []
