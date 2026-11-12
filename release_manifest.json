@@ -1,7 +1,10 @@
 {
   "version": "v0.74",
   "title": "wheel. v0.74: Developer Debug Overlay, Smooth Camera Framing & Performance Polish",
-  "published_utc": "2026-11-12T14:13:54Z",
+  "published_utc": "2026-11-12T18:27:58Z",
+  "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
+  "installer_sha256": "cecf62b51a878c6d95da4f2fd5ff933e5463277c5cf52187bc5267db7570b92f",
+  "installer_bytes": 291840,
   "core_archive": "wheel_win64.zip",
   "core_archive_sha256": "9046146b82fabb154d93eb2a32999fc925204deb8083eb7311ccd60a28dbf2a9",
   "core_archive_bytes": 1583258978,
@@ -9,5 +12,19 @@
   "core_pck_bytes": 1666044616,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
+  "chunks": [
+    {
+      "name": "wheel_v0_74.part001",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_74.part001",
+      "bytes": 996147200,
+      "sha256": "828bbc4efd981a21ba68603bca854fd7beb43cfa6b2006b315d08bc11058f530"
+    },
+    {
+      "name": "wheel_v0_74.part002",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_74.part002",
+      "bytes": 587111778,
+      "sha256": "9e360b1ada3d999585a890321f03033576c4ae1f4970cd400759ea90f5dc6755"
+    }
+  ],
   "map_packs": []
 }
