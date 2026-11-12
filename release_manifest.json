@@ -1,13 +1,13 @@
 {
   "version": "v0.74",
   "title": "wheel. v0.74: Developer Debug Overlay, Smooth Camera Framing & Performance Polish",
-  "published_utc": "2026-11-12T13:38:55Z",
+  "published_utc": "2026-11-12T14:03:50Z",
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "6824472e3e28abd4e9dfaedd40821e21a5d2bb020e9b776e5b287b9848806ce1",
-  "core_archive_bytes": 6713941849,
-  "core_pck_sha256": "70935dfb8ea20f278b3a7f15004c8b8c759dbbdab33d3249ebed047d7342556e",
-  "core_pck_bytes": 6797855353,
-  "exe_sha256": "3da41dc7262456139a69f58dac818f3f8397ff4335ac1ed9083cd65db40a8858",
+  "core_archive_sha256": "4a8ea5840a3c4c5a09c4456d43c832c2cc3198a6f265a0c9f271f1b7f51765ec",
+  "core_archive_bytes": 2250540485,
+  "core_pck_sha256": "e7f67a8d3780e754491ccf448827571fc8c547f289501da39deb2eb28feebaa4",
+  "core_pck_bytes": 2333187132,
+  "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "map_packs": []
 }
