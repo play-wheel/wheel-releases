@@ -42,6 +42,7 @@
 ## Troubleshooting
 
 - **Vulkan Compatibility Mode:** `wheel.` runs on **Direct3D 12** by default and automatically falls back to **Vulkan** if D3D12 startup fails. You can also launch **`wheel. (Vulkan Compatibility)`** directly from your Windows Start Menu (`PlayWheel` folder).
+- **Startup & Crash Logs:** Engine and launcher logs are saved automatically to `%LocalAppData%\Programs\wheel\logs\wheel.log` (and `%APPDATA%\Godot\app_userdata\wheel.\logs\godot.log`). You can also run `wheel.console.exe` in `%LocalAppData%\Programs\wheel` for live console output.
 - **Repairing Game Files:** Open **`wheel. Updater`** from the Start Menu (or re-run `wheel_installer.exe`) and click **Verify / Reinstall** to re-verify every file via SHA-256.
 - **Intel 13th/14th-Gen `i9-13900K` / `i9-14900K` DX12 Shader Crash:** Ensure your motherboard BIOS is updated (`Intel microcode 0x12B+` with Intel Default Settings) and your NVIDIA/AMD GPU drivers are current.
 - **Third-Party Overlays:** If RivaTuner (RTSS), Overwolf, or Discord Overlay hooks D3D12 startup on your PC, update RTSS or disable the overlay for `wheel.exe`.
