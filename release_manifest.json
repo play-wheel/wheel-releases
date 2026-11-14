@@ -1,29 +1,29 @@
 {
-  "version": "v0.74",
-  "title": "wheel. v0.74: Developer Debug Overlay, Smooth Camera Framing & Performance Polish",
-  "published_utc": "2026-11-12T18:27:58Z",
+  "version": "v0.75",
+  "title": "wheel. v0.75: Trail Riders, Goofy Stance, Scenic Tahoe Cliffs, Ragdoll Falls & Smooth FPS",
+  "published_utc": "2026-11-14T02:11:18Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "cecf62b51a878c6d95da4f2fd5ff933e5463277c5cf52187bc5267db7570b92f",
-  "installer_bytes": 291840,
+  "installer_sha256": "50eb0780256e4eec2186657b85b650aad475e0d4103e53835acc371b7aef3c50",
+  "installer_bytes": 293376,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "9046146b82fabb154d93eb2a32999fc925204deb8083eb7311ccd60a28dbf2a9",
-  "core_archive_bytes": 1583258978,
-  "core_pck_sha256": "dfe53aa21b95a03eebd49e80c0de9e74914176d6ccfa4939463333530a929326",
-  "core_pck_bytes": 1666044616,
+  "core_archive_sha256": "0c06f3a4ab6692da63065c3ecdab5e3693bf25eba7374c00ee57cd095afe2795",
+  "core_archive_bytes": 1912220279,
+  "core_pck_sha256": "8e33e9d57b632ad9915d2fc30252d1b0b5d4d2c86f4d82cfd5f880e2e0757685",
+  "core_pck_bytes": 2506307140,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
     {
-      "name": "wheel_v0_74.part001",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_74.part001",
+      "name": "wheel_v0_75.part001",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_75.part001",
       "bytes": 996147200,
-      "sha256": "828bbc4efd981a21ba68603bca854fd7beb43cfa6b2006b315d08bc11058f530"
+      "sha256": "c26fa62cc5ae6dc5fc349c9209d74f341f8c0c68d1666a156ecf838b5b953936"
     },
     {
-      "name": "wheel_v0_74.part002",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_74.part002",
-      "bytes": 587111778,
-      "sha256": "9e360b1ada3d999585a890321f03033576c4ae1f4970cd400759ea90f5dc6755"
+      "name": "wheel_v0_75.part002",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_75.part002",
+      "bytes": 916073079,
+      "sha256": "61ba80fade632392215428b77477a076579e2829dfae3bff0e80c36a4cce3d1f"
     }
   ],
   "map_packs": []
