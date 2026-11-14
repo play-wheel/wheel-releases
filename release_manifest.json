@@ -1,29 +1,29 @@
 {
-  "version": "v0.75",
-  "title": "wheel. v0.75: Smart Trail Riders, Rich Dirt Roost, Ride-Feel Customizer, Goofy Stance & Tahoe Cliffs",
-  "published_utc": "2026-11-14T18:44:23Z",
+  "version": "v0.76",
+  "title": "wheel. v0.76: Startup Crash Fix, Volumetric Trail Dust, Heavy Crash Audio & Controller Polish",
+  "published_utc": "2026-11-14T21:32:05Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "7b72ad782e124bcfb38fa343c5409036e9478a2fb0ee45a7cabb61851a9acb18",
-  "installer_bytes": 293376,
+  "installer_sha256": "0118784de7b02440fa7cd27e2744847f94d976eb77d434a550f01b4e47f489eb",
+  "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "0b126cb7d5e9790e3526bdd7681618424aa16a91985ad070f34797797d88c4d2",
-  "core_archive_bytes": 1912900485,
-  "core_pck_sha256": "cc4fd1825f36de35c7c0c420deb152835248664d302a497c31b46052d2aa82f8",
-  "core_pck_bytes": 2507006844,
+  "core_archive_sha256": "514f459a821f0ea7d62639b930f61801eebddccdebb9be322e8859a96e307561",
+  "core_archive_bytes": 1938155790,
+  "core_pck_sha256": "9c0eb4b118609c429ea2742d3cc97559981834731579cca95211e1e972452b39",
+  "core_pck_bytes": 2531410672,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
     {
-      "name": "wheel_v0_75.part001",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_75.part001",
+      "name": "wheel_v0_76.part001",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_76.part001",
       "bytes": 996147200,
-      "sha256": "b85d52f4731c3c33a7ae18fd87e5f8551c8ee9a44a074c1686639109a6e99f49"
+      "sha256": "d2103cbbbd652dafa7c64d44d39532482d20315a8e040b434b4a66c9900795de"
     },
     {
-      "name": "wheel_v0_75.part002",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_75.part002",
-      "bytes": 916753285,
-      "sha256": "ab047b58e0c3843bc8da97dc36adc34468277c28c553e7a4702c80c35ffcd24e"
+      "name": "wheel_v0_76.part002",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_76.part002",
+      "bytes": 942008590,
+      "sha256": "4da335e0f7a92bc68fdbe86eb83746fde73086acc47e6369aae9f8cce942d665"
     }
   ],
   "map_packs": []
