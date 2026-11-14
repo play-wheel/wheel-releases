@@ -1,15 +1,15 @@
 {
   "version": "v0.75",
-  "title": "wheel. v0.75: Trail Riders, Goofy Stance, Scenic Tahoe Cliffs, Ragdoll Falls & Smooth FPS",
-  "published_utc": "2026-11-14T02:21:32Z",
+  "title": "wheel. v0.75: Smart Trail Riders, Rich Dirt Roost, Ride-Feel Customizer, Goofy Stance & Tahoe Cliffs",
+  "published_utc": "2026-11-14T18:44:23Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "6905d1982e82a551e259ae658dbbc5d0ef3b64d4c0c4e73d92dae8b972304d5e",
+  "installer_sha256": "7b72ad782e124bcfb38fa343c5409036e9478a2fb0ee45a7cabb61851a9acb18",
   "installer_bytes": 293376,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "0c06f3a4ab6692da63065c3ecdab5e3693bf25eba7374c00ee57cd095afe2795",
-  "core_archive_bytes": 1912220279,
-  "core_pck_sha256": "8e33e9d57b632ad9915d2fc30252d1b0b5d4d2c86f4d82cfd5f880e2e0757685",
-  "core_pck_bytes": 2506307140,
+  "core_archive_sha256": "0b126cb7d5e9790e3526bdd7681618424aa16a91985ad070f34797797d88c4d2",
+  "core_archive_bytes": 1912900485,
+  "core_pck_sha256": "cc4fd1825f36de35c7c0c420deb152835248664d302a497c31b46052d2aa82f8",
+  "core_pck_bytes": 2507006844,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
@@ -17,13 +17,13 @@
       "name": "wheel_v0_75.part001",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_75.part001",
       "bytes": 996147200,
-      "sha256": "c26fa62cc5ae6dc5fc349c9209d74f341f8c0c68d1666a156ecf838b5b953936"
+      "sha256": "b85d52f4731c3c33a7ae18fd87e5f8551c8ee9a44a074c1686639109a6e99f49"
     },
     {
       "name": "wheel_v0_75.part002",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_75.part002",
-      "bytes": 916073079,
-      "sha256": "61ba80fade632392215428b77477a076579e2829dfae3bff0e80c36a4cce3d1f"
+      "bytes": 916753285,
+      "sha256": "ab047b58e0c3843bc8da97dc36adc34468277c28c553e7a4702c80c35ffcd24e"
     }
   ],
   "map_packs": []
