@@ -1,15 +1,15 @@
 {
   "version": "v0.76",
-  "title": "wheel. v0.76: Startup Crash Fix, Volumetric Trail Dust, Heavy Crash Audio & Controller Polish",
-  "published_utc": "2026-11-14T21:32:05Z",
+  "title": "wheel. v0.76: Startup Crash Fix, Smooth Trail Obstacles, Volumetric Dust, Heavy Crash Audio & Forest Flow",
+  "published_utc": "2026-11-14T22:48:02Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "0118784de7b02440fa7cd27e2744847f94d976eb77d434a550f01b4e47f489eb",
+  "installer_sha256": "a80355ece667bb30cabf2964cdf0b177f9008d13f3aa31078d49bfa59902df1d",
   "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "514f459a821f0ea7d62639b930f61801eebddccdebb9be322e8859a96e307561",
-  "core_archive_bytes": 1938155790,
-  "core_pck_sha256": "9c0eb4b118609c429ea2742d3cc97559981834731579cca95211e1e972452b39",
-  "core_pck_bytes": 2531410672,
+  "core_archive_sha256": "3f451189f5a4197865b2595ae7cf10dfdace734633cf94e4fb1b8bf5aab2de7e",
+  "core_archive_bytes": 1944830430,
+  "core_pck_sha256": "70b3e32c619ef9a1a4dc52e82998b2d4f1333a13318169cfd87d8319a90c6f5b",
+  "core_pck_bytes": 2531411056,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
@@ -17,13 +17,13 @@
       "name": "wheel_v0_76.part001",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_76.part001",
       "bytes": 996147200,
-      "sha256": "d2103cbbbd652dafa7c64d44d39532482d20315a8e040b434b4a66c9900795de"
+      "sha256": "b6944245ff6b0f82ea0f3062659d9c188bdef17bae04d4ae15ed90f70b92e7e8"
     },
     {
       "name": "wheel_v0_76.part002",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_76.part002",
-      "bytes": 942008590,
-      "sha256": "4da335e0f7a92bc68fdbe86eb83746fde73086acc47e6369aae9f8cce942d665"
+      "bytes": 948683230,
+      "sha256": "1f6bbed37c9127439ada1f6f533574b62a4457b2ec5e43922eb09d3b660a9554"
     }
   ],
   "map_packs": []
