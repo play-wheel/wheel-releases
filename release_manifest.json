@@ -1,9 +1,9 @@
 {
   "version": "v0.75",
   "title": "wheel. v0.75: Trail Riders, Goofy Stance, Scenic Tahoe Cliffs, Ragdoll Falls & Smooth FPS",
-  "published_utc": "2026-11-14T02:11:18Z",
+  "published_utc": "2026-11-14T02:21:32Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "50eb0780256e4eec2186657b85b650aad475e0d4103e53835acc371b7aef3c50",
+  "installer_sha256": "6905d1982e82a551e259ae658dbbc5d0ef3b64d4c0c4e73d92dae8b972304d5e",
   "installer_bytes": 293376,
   "core_archive": "wheel_win64.zip",
   "core_archive_sha256": "0c06f3a4ab6692da63065c3ecdab5e3693bf25eba7374c00ee57cd095afe2795",
