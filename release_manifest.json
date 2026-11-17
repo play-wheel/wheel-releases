@@ -1,35 +1,35 @@
 {
-  "version": "v0.77",
-  "title": "wheel. v0.77: Pro-Line Cliff Drops, 180/360 Spins & Berm Shralps, Backcountry Forks, Lush Tahoe Flora & Streamlined Menus",
-  "published_utc": "2026-11-16T15:38:43Z",
+  "version": "v0.78",
+  "title": "wheel. v0.78: Step-Off Saves & Board Mounts, Forest Trail Forks, Animated Switch Riding, Living Tahoe Skies & Soft-Sand Tracks",
+  "published_utc": "2026-11-17T16:47:52Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "d319f6f05b15a8c7115beb9fa1823dbbe188f2e935d91e43095755532a895aa2",
+  "installer_sha256": "4d3f21dd245484ac10d04e1bfdbab5649dfb2d86069dd8c572aa270e57596df6",
   "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "d86824e730d6109f26e3f2815597082e88416cec75a4075fb497a3f1fb3b573a",
-  "core_archive_bytes": 2107146083,
-  "core_pck_sha256": "c8610b652411ddbce17f64aa5a3ea5c0aee03de79f9a7f55d5b723b525f36a9f",
-  "core_pck_bytes": 2701099611,
+  "core_archive_sha256": "002e08fdfbb281d617865f92ebf90ebd36a7ed58b4475716aac1e81f4645d38e",
+  "core_archive_bytes": 2110045573,
+  "core_pck_sha256": "984625789e08229cd6e67cb6d240fcae3f54660bc16544cfe31e175fec5418c3",
+  "core_pck_bytes": 2704200832,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
     {
-      "name": "wheel_v0_77.part001",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_77.part001",
+      "name": "wheel_v0_78.part001",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_78.part001",
       "bytes": 996147200,
-      "sha256": "9a7effe3aa2725901fcda9eadd1ccb52225f0940a72edda0af8a272a5826560f"
+      "sha256": "d99bd87b2e102cc1b4c29783ec5abe3e9b9d839c22a1012025f5cba8638bb380"
     },
     {
-      "name": "wheel_v0_77.part002",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_77.part002",
+      "name": "wheel_v0_78.part002",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_78.part002",
       "bytes": 996147200,
-      "sha256": "35b31879b0dfde78a5ac8cabc2bb0f2950ee8a07812ec3825638cb8b110d48a0"
+      "sha256": "0cab766fb5d4be6036f0b03e6abebf4a7b34143813bf663b1ddf53c5a37ea8a9"
     },
     {
-      "name": "wheel_v0_77.part003",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_77.part003",
-      "bytes": 114851683,
-      "sha256": "f3c5abe0dea07020e0c7d3023070745eaa1d6aa5c2e803f766b3ea3d34165821"
+      "name": "wheel_v0_78.part003",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_78.part003",
+      "bytes": 117751173,
+      "sha256": "553b232d9771bb7cdd84e2164ea209e5449a84d7e82dc1aca3260baeab3163e6"
     }
   ],
   "map_packs": []
