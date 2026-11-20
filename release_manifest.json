@@ -1,15 +1,15 @@
 {
   "version": "v0.80",
-  "title": "wheel. v0.80: Smoother Performance, Sunset Lake Reflections, Shifty Sand Spray, Natural Rider Motion & Live Tahoe Wildlife",
-  "published_utc": "2026-11-20T16:09:43Z",
+  "title": "wheel. v0.80: Alpine Summit Showroom, Tahoe Granite & Underwater Rocks, Flow Speed Rewards, Smooth Shiftys & Sunset Reflections",
+  "published_utc": "2026-11-20T23:44:26Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "21b088595fe77a247cc0c59b704cd49d6c8830e464e49a3f8a6327cef8d2671a",
+  "installer_sha256": "1dc656fc8e80181b57086fb86efdb6f73f411b38cbc6c9f2f756ed3bfa58530a",
   "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "cc280612062f2eef2343b314e9b382c604f8b0889e0430831e70fe88d7632c5f",
-  "core_archive_bytes": 1520311665,
-  "core_pck_sha256": "b7e7790376c349b66113d2e11c48222e8c872c9075ea6ba56cc57d6ffebb84fb",
-  "core_pck_bytes": 2185639402,
+  "core_archive_sha256": "35bfa008c6ce826e1359c2b63d0e10eb323acc0d8301fbeb79b64f8a02cd6253",
+  "core_archive_bytes": 1287569293,
+  "core_pck_sha256": "a5007a4fe9e45ea6b285b1464fbd8ec92cdd17a1a173d8b9f112432d89c729d2",
+  "core_pck_bytes": 1722054760,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
@@ -17,13 +17,13 @@
       "name": "wheel_v0_80.part001",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_80.part001",
       "bytes": 996147200,
-      "sha256": "98e1d3220c8a8ff677154994968635819e5cbc72724f7e168992d0f17b0d9a9c"
+      "sha256": "d6ea7b7162e747ab52caa575f150930c71db3dfb94d3bdeb3297d5ce8f2a8442"
     },
     {
       "name": "wheel_v0_80.part002",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_80.part002",
-      "bytes": 524164465,
-      "sha256": "fecf8e492f60238a1292f87d6ebc4dd6da791038f706afc9e6737deb3c6527a7"
+      "bytes": 291422093,
+      "sha256": "0259837d9ad66644b050c557895ee2ad5f5eae9e524902893757f69c34185eb2"
     }
   ],
   "map_packs": []
