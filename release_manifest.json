@@ -1,29 +1,23 @@
 {
-  "version": "v0.80",
-  "title": "wheel. v0.80: Alpine Summit Showroom, Tahoe Granite & Underwater Rocks, Flow Speed Rewards, Smooth Shiftys & Sunset Reflections",
-  "published_utc": "2026-11-20T23:44:26Z",
+  "version": "v0.81",
+  "title": "wheel. v0.81: Winding Forest Gully, Flowing Alpine Creek, Tahoe Singletrack, Realistic Nosedives & Sound Overhaul",
+  "published_utc": "2026-11-23T17:31:34Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "1dc656fc8e80181b57086fb86efdb6f73f411b38cbc6c9f2f756ed3bfa58530a",
+  "installer_sha256": "34c55aee42d7532d95f0b9d483c7233427e481c0bdf9d8a6cdd49385ecd5b05a",
   "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "35bfa008c6ce826e1359c2b63d0e10eb323acc0d8301fbeb79b64f8a02cd6253",
-  "core_archive_bytes": 1287569293,
-  "core_pck_sha256": "a5007a4fe9e45ea6b285b1464fbd8ec92cdd17a1a173d8b9f112432d89c729d2",
-  "core_pck_bytes": 1722054760,
+  "core_archive_sha256": "923458468d1ad910cb9d7e714862c768127af822bc249a5c3cb161bd2e27ff57",
+  "core_archive_bytes": 905610758,
+  "core_pck_sha256": "bd027cdd19ebee28cbb454d77f6482d86453c5bddf21579929b28c4c2802ecc4",
+  "core_pck_bytes": 1274037676,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
     {
-      "name": "wheel_v0_80.part001",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_80.part001",
-      "bytes": 996147200,
-      "sha256": "d6ea7b7162e747ab52caa575f150930c71db3dfb94d3bdeb3297d5ce8f2a8442"
-    },
-    {
-      "name": "wheel_v0_80.part002",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_80.part002",
-      "bytes": 291422093,
-      "sha256": "0259837d9ad66644b050c557895ee2ad5f5eae9e524902893757f69c34185eb2"
+      "name": "wheel_v0_81.part001",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_81.part001",
+      "bytes": 905610758,
+      "sha256": "923458468d1ad910cb9d7e714862c768127af822bc249a5c3cb161bd2e27ff57"
     }
   ],
   "map_packs": []
