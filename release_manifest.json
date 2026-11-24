@@ -1,15 +1,15 @@
 {
   "version": "v0.82",
-  "title": "wheel. v0.82: Moab Slickrock Overhaul, Natural Arches, Authentic Motor Sound & Rally XL",
-  "published_utc": "2026-11-24T20:21:07Z",
+  "title": "wheel. v0.82: New Moab Slickrock Map, Authentic Motor Sound, Rally XL & Off-Map Protection",
+  "published_utc": "2026-11-24T21:42:43Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "8d4035354459796ab58184372af5964898b74c3c210bbe42d478184d8adbc5df",
+  "installer_sha256": "8a2bded2d4f23e2776e36a034297661fed286304e87fe3bd82f2ea0918245734",
   "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "a64c644900649249d6512c879fdbab53174ebece58160937c093a570e8ea46aa",
-  "core_archive_bytes": 1154230823,
-  "core_pck_sha256": "d9fe2ad3b9f5ce726c0daf342d2d05a9f8e7c1c53fc705ac1f3c98f5f8bac1c8",
-  "core_pck_bytes": 1600864020,
+  "core_archive_sha256": "62149fd83c5300615b93a90c981bf546f1af48fcb68efa4954812881336c6d7e",
+  "core_archive_bytes": 1154256572,
+  "core_pck_sha256": "b6070d4eeaf94de361f41beb232be6f1eaab1a5e83e2b1e2dc6a0b52036919cf",
+  "core_pck_bytes": 1600885824,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
@@ -17,13 +17,13 @@
       "name": "wheel_v0_82.part001",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_82.part001",
       "bytes": 996147200,
-      "sha256": "61e589fe0c8e63bd80caeeccbd6703fcb046b8fcc2c48dd2c2d0f18e4730dd61"
+      "sha256": "e402e6eecd950ad3a7c360be301c181316abd5d0fc2ff6b079f930d1f9ac8238"
     },
     {
       "name": "wheel_v0_82.part002",
       "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_82.part002",
-      "bytes": 158083623,
-      "sha256": "7d7bebc6c834ab2be919a027c1fdf8d9ff4327396a5499822a23d8d7fb884432"
+      "bytes": 158109372,
+      "sha256": "37b15ba9f4e79ab29f7251174986a89b9876e7eb9ffcf0cbbacab93b7a311eb0"
     }
   ],
   "map_packs": []
