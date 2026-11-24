@@ -1,23 +1,29 @@
 {
-  "version": "v0.81",
-  "title": "wheel. v0.81: Winding Forest Gully, Flowing Alpine Creek, Tahoe Singletrack, Realistic Nosedives & Performance Boost",
-  "published_utc": "2026-11-23T18:37:51Z",
+  "version": "v0.82",
+  "title": "wheel. v0.82: Moab Slickrock Overhaul, Natural Arches, Authentic Motor Sound & Rally XL",
+  "published_utc": "2026-11-24T20:21:07Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "48eb1e00aa316b009880f83c680c6ad82e3ad237bfd55d18b561874bf97e8850",
+  "installer_sha256": "8d4035354459796ab58184372af5964898b74c3c210bbe42d478184d8adbc5df",
   "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "0afb50b9b875299fa2dfa5000dce4bd96b2a60b46480479f3a811425a84aecee",
-  "core_archive_bytes": 867450540,
-  "core_pck_sha256": "e80e895a41dc7b28541ab4c7a8b4480854e1b4fa89e49e3c1b47dfcf4eb96a6a",
-  "core_pck_bytes": 1201427024,
+  "core_archive_sha256": "a64c644900649249d6512c879fdbab53174ebece58160937c093a570e8ea46aa",
+  "core_archive_bytes": 1154230823,
+  "core_pck_sha256": "d9fe2ad3b9f5ce726c0daf342d2d05a9f8e7c1c53fc705ac1f3c98f5f8bac1c8",
+  "core_pck_bytes": 1600864020,
   "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
   "exe_bytes": 105588224,
   "chunks": [
     {
-      "name": "wheel_v0_81.part001",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_81.part001",
-      "bytes": 867450540,
-      "sha256": "0afb50b9b875299fa2dfa5000dce4bd96b2a60b46480479f3a811425a84aecee"
+      "name": "wheel_v0_82.part001",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_82.part001",
+      "bytes": 996147200,
+      "sha256": "61e589fe0c8e63bd80caeeccbd6703fcb046b8fcc2c48dd2c2d0f18e4730dd61"
+    },
+    {
+      "name": "wheel_v0_82.part002",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_82.part002",
+      "bytes": 158083623,
+      "sha256": "7d7bebc6c834ab2be919a027c1fdf8d9ff4327396a5499822a23d8d7fb884432"
     }
   ],
   "map_packs": []
