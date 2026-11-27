@@ -1,29 +1,23 @@
 {
-  "version": "v0.82",
-  "title": "wheel. v0.82: New Moab Slickrock Map, Authentic Motor Sound, Rally XL & Off-Map Protection",
-  "published_utc": "2026-11-24T21:42:43Z",
+  "version": "v0.83",
+  "title": "wheel. v0.83: Huge Carving Feel Upgrade, Lush Tahoe Forests, Moab Polish & Redesigned Menus",
+  "published_utc": "2026-11-27T05:49:32Z",
   "installer_url": "https://github.com/play-wheel/wheel-releases/releases/latest/download/wheel_installer.exe",
-  "installer_sha256": "8a2bded2d4f23e2776e36a034297661fed286304e87fe3bd82f2ea0918245734",
+  "installer_sha256": "42fe5349c63b2b8ccc1bed67f87e03d5da9cb7722b68f2d1e074f9385ad588cb",
   "installer_bytes": 294912,
   "core_archive": "wheel_win64.zip",
-  "core_archive_sha256": "62149fd83c5300615b93a90c981bf546f1af48fcb68efa4954812881336c6d7e",
-  "core_archive_bytes": 1154256572,
-  "core_pck_sha256": "b6070d4eeaf94de361f41beb232be6f1eaab1a5e83e2b1e2dc6a0b52036919cf",
-  "core_pck_bytes": 1600885824,
-  "exe_sha256": "4ef35357890bda3e49802eadc71933b71a23d6aa37cc59d01597d0ecc2247bc6",
+  "core_archive_sha256": "cefaaccce99abbcb492fb6bd892f1dba54e4a02994eb64278d5c98e2e8779a87",
+  "core_archive_bytes": 933660278,
+  "core_pck_sha256": "fd5e6f4f8f20f7a93e6c70da557f011b73a6073fec56768eaf64e07b44dfbede",
+  "core_pck_bytes": 1307288440,
+  "exe_sha256": "132a65e6bf3beaf8de74a6da654d8ce53bb304df778f518ad5944b98fde38675",
   "exe_bytes": 105588224,
   "chunks": [
     {
-      "name": "wheel_v0_82.part001",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_82.part001",
-      "bytes": 996147200,
-      "sha256": "e402e6eecd950ad3a7c360be301c181316abd5d0fc2ff6b079f930d1f9ac8238"
-    },
-    {
-      "name": "wheel_v0_82.part002",
-      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_82.part002",
-      "bytes": 158109372,
-      "sha256": "37b15ba9f4e79ab29f7251174986a89b9876e7eb9ffcf0cbbacab93b7a311eb0"
+      "name": "wheel_v0_83.part001",
+      "url": "https://github.com/play-wheel/wheel-releases/releases/download/installer-cdn/wheel_v0_83.part001",
+      "bytes": 933660278,
+      "sha256": "cefaaccce99abbcb492fb6bd892f1dba54e4a02994eb64278d5c98e2e8779a87"
     }
   ],
   "map_packs": []
